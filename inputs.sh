@@ -8,5 +8,7 @@ echo $# #echo no of arguments
 
 #accessing variable from shell
 echo x=$x
+echo x=$x
+
 
 
