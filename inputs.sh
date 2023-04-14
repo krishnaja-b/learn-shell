@@ -6,5 +6,7 @@ echo $*
 echo $@ # echo all arguments
 echo $# #echo no of arguments
 
+#accessing variable from shell
+echo x=$x
 
 
