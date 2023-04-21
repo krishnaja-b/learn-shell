@@ -7,4 +7,7 @@ if [ "${number}" -eq 5 ]; then
 
 if [ "${string1}" == abc ]; then
   echo string is abc
+  else
+    echo string is not abc
     fi
+
